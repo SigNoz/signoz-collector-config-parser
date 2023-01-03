@@ -1,0 +1,1 @@
+# signoz-collector-config-parser
